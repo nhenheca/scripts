@@ -4,7 +4,7 @@
 // @version      0.3
 // @description  ConstrutorAFK
 // @author       nheneheca
-// @match        https://pt66.tribalwars.com.pt/game.php?village=17034&screen=main
+// @match        A página onde irá correr o script exemplo: https://pt66.tribalwars.com.pt/game.php?village=99999&screen=main
 // @grant        none
 // ==/UserScript==
 
